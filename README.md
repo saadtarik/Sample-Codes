@@ -1,2 +1,2 @@
-# Grad_Research
-Includes codes for graduate research
+# Sample Codes
+Includes sample codes in R and Matlab from grad school
